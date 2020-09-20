@@ -148,7 +148,7 @@ function buildCharts(sample) {
     // D3: 4. Create the trace for the gauge chart.
     var trace2 = {
       value: wfreq,
-      title: {text:"<b>Belly Button Wahshing Frequency</b><br>Scrubs per Week"},
+      title: {text:"<b>Belly Button Washing Frequency</b><br>Scrubs per Week"},
       type: "indicator",
       mode: "gauge+number",
       gauge: {
